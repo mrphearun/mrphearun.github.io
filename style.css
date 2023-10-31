@@ -1,0 +1,215 @@
+*{
+		padding: 0;
+		margin: 0;
+}
+body{
+	font-family: arial;
+	background-color: #aa0681;
+}
+#header ul {
+	background-image: url(images/bg-header.jpg);
+	height: 301px;
+	width: 100%;
+}
+#header ul a {
+	text-decoration: none;
+	font-size: 50px;
+	color: white;
+	padding: 20px;
+	line-height: 150px;
+	text-transform: uppercase;
+	
+}
+#header ul a.active{
+	background-color:rgb(255, 0, 149);
+	border-radius: 10px;
+}
+#header ul a:hover{
+	color: rgb(0, 0, 0);
+	background: rgb(255, 0, 149);
+	border-radius: 10px;
+}
+#logo img{
+	width: 301px;
+	height: 163px;
+	position: absolute;
+	margin-top: -180px;
+
+}
+#feather{
+	margin-top: 40px;
+	padding: 50px;
+margin-bottom: 40px;
+}
+
+#feather2{
+	padding-left:1300px;
+	margin-top: -700px;
+	position: absolute;
+
+}
+#body{
+	width: 100%;
+	height: 1400px;
+	background: white;
+}
+#sp img{
+	position: absolute;
+	padding-left: 460px;
+	margin-top: -45px;
+}
+#body img{
+	margin-top: -45px;
+	margin-left: 80px;
+}
+#flowers img {
+	margin-top: 35px;
+	padding: 10px;
+	width: 300px;
+	color: red;
+}
+#text1{
+	float: right;
+	position: absolute;
+	font-family: khmer;
+	padding-left: 1400px;
+	margin-top: -1000px;
+	font-size: 30px;
+
+}
+#text2{
+	float: right;
+	position: absolute;
+	font-family: khmer;
+	padding-left: 1400px;
+	margin-top: -600px;
+	font-size: 30px;
+
+}
+
+#text3{
+	float: right;
+	position: absolute;
+	font-family: khmer;
+	padding-left: 1400px;
+	margin-top: -300px;
+	font-size: 30px;
+
+}
+#undertext1{
+	position: absolute;
+	margin-top: -730px;
+	padding-left: 190px;
+	font-size: 30px;
+	color: red;
+}#undertext2{
+	position: absolute;
+	margin-top: -730px;
+	padding-left: 590px;
+	font-size: 30px;
+	color: red;
+}
+#undertext3{
+	position: absolute;
+	margin-top: -730px;
+	padding-left: 1000px;
+	font-size: 30px;
+	color: red;
+}
+#undertext4{
+	position: absolute;
+	margin-top: -370px;
+	padding-left: 180px;
+	font-size: 30px;
+	color: red;
+}
+#undertext5{
+	position: absolute;
+	margin-top: -370px;
+	padding-left: 600px;
+	font-size: 30px;
+	color: red;
+}
+
+#undertext6{
+	position: absolute;
+	margin-top: -370px;
+	padding-left: 950px;
+	font-size: 30px;
+	color: red;
+}
+#undertext7{
+	position: absolute;
+	margin-top: -11px;
+	padding-left: 180px;
+	font-size: 30px;
+	color: red;
+}
+#undertext8{
+	position: absolute;
+	margin-top: -11px;
+	padding-left: 590px;
+	font-size: 30px;
+	color: red;
+}
+
+#undertext9{
+	position: absolute;
+	margin-top: -11px;
+	padding-left: 970px;
+	font-size: 30px;
+	color: red;
+}
+#view h4 a{
+	position: absolute;
+	font-family: Times New Roman;
+	text-decoration: none;
+	margin-top: -200px;
+	padding-left: 510px;
+	font-size: 40px;
+	color: red;
+}
+#view h4 a:hover{
+	color: rgb(0, 0, 0);
+
+}
+
+#footer{
+	width: 100%;
+	height: 220px;
+	background-color: #39ac5f;
+}
+#footer h4{
+	font-size: 40px;
+	line-height: 200px;
+	color: white;
+}
+#footer h3{
+	float: right;
+	color: white;
+	line-height: 200px;
+	padding-right: 30px;
+	font-size: 35px;
+}
+#line1{
+	width: 1100px;
+	height: 10px;
+	background-color: red;
+	margin-top: -600px;
+	margin-left: 1400px;
+}
+#line2{
+	width: 1100px;
+	height: 10px;
+	background-color: red;
+	margin-top: -300px;
+	margin-left: 1400px;
+}
+#line3{
+	width: 1100px;
+	height: 10px;
+	background-color: red;
+	margin-top: -400px;
+	margin-left: 1400px;
+}
+
